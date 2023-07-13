@@ -1,0 +1,42 @@
+{
+    "name": "HI",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.32",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#8EBA88",
+        "#B7B9C1",
+        "#9093A7",
+        "#A9ADB6",
+        "#646B7A",
+        "#675464",
+        "#919BAE",
+        "#84B191",
+        "#7F7DAD",
+        "#838698",
+        "#A4839F",
+        "#5C406c",
+        "#E5CDC4",
+        "#91463d",
+        "#9E9EA0"
+    ]
+}
